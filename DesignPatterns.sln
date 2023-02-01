@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{B2FC13B8-568C-45FF-9A9F-C3836F6EF06D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{464DD9DA-D982-4FC0-B194-0CFF89C2D3BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2FC13B8-568C-45FF-9A9F-C3836F6EF06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2FC13B8-568C-45FF-9A9F-C3836F6EF06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2FC13B8-568C-45FF-9A9F-C3836F6EF06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2FC13B8-568C-45FF-9A9F-C3836F6EF06D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{464DD9DA-D982-4FC0-B194-0CFF89C2D3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464DD9DA-D982-4FC0-B194-0CFF89C2D3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464DD9DA-D982-4FC0-B194-0CFF89C2D3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464DD9DA-D982-4FC0-B194-0CFF89C2D3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
